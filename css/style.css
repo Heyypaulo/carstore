@@ -1,0 +1,28 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+#logo-container img {
+  width: 260px;
+  margin-top: 1px;
+}
+
+#logocentro img {
+  margin-left: 37rem;
+  margin-top: -17rem;
+}
+
+.preto {
+  background-color: #0a0b0f !important;
+}
